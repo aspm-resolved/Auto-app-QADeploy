@@ -12,5 +12,5 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: Prod
-          artifact-id: 2d5f00cd-803b-4c54-8da7-48c48d7adf75
+          artifact-id: c0afc457-3a35-4385-9d75-0115d7fb1631
           target-environment: PROD
